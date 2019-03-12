@@ -1,0 +1,21 @@
+CREATE TABLE `ui_event` (
+  `id` int(10) NOT NULL AUTO_INCREMENT COMMENT '自增主键id',
+  `code` varchar(20) DEFAULT NULL COMMENT '自定义(username/login/add_activity)',
+  `type` varchar(20) NOT NULL DEFAULT 'id' COMMENT '定位方式：id/name/xpath/css',
+  `event` varchar(50) NOT NULL DEFAULT 'click' COMMENT '事件：click(),sendKeys(),clear()',
+  `webelement` varchar(50) DEFAULT NULL COMMENT '定位出的值/路径',
+  `value` varchar(100) DEFAULT NULL COMMENT 'sendKeys的值',
+  `description` varchar(20) DEFAULT NULL COMMENT '解释说明',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8 COMMENT='用户事件';
+
+
+
+CREATE TABLE `ui_event_actionCodes` (
+  `id` int(10) NOT NULL AUTO_INCREMENT COMMENT '自增主键id',
+  `action` varchar(20) NOT NULL DEFAULT 'id' COMMENT '自定义：用户登录/进入活动列表/创建销售合同',
+  `codes` varchar(20) DEFAULT NULL COMMENT '由ui_test表中的code生成',
+  `description` varchar(20) DEFAULT NULL COMMENT '解释说明',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8 COMMENT='用户操作';
+
