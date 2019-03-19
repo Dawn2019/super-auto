@@ -20,9 +20,10 @@ public class JdbcUtil {
 		try {
 			Properties props =new Properties();
 			//读取配置文件
-			InputStream in = JdbcUtil.class.getClassLoader().getResourceAsStream("dbconfig.properties");
+			InputStream in = JdbcUtil.class.getClassLoader()
+					.getResourceAsStream("dbconfig.properties");
 			props.load(in);
-			url = props.getProperty(url);
+			url = props.getProperty("url");
 			username = props.getProperty("username");
 			password =props.getProperty("password");
 			driverclass =props.getProperty("driverClassName");

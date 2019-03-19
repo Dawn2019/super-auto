@@ -3,6 +3,7 @@ package com.uuabc.run;
 import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -12,6 +13,8 @@ import org.openqa.selenium.support.ui.*;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
@@ -61,6 +64,53 @@ public class admin_test {
 		driver.findElement(By.name("user_name")).sendKeys("zhangchenglin");
 		driver.findElement(By.name("password")).sendKeys("123456");
 		driver.findElement(By.cssSelector("body > div > form > div.login-wrap > button")).click();
+		driver.findElement(By.cssSelector("#left-title > li:nth-child(4)")).click();
+//		driver.findElement(By.linkText("老师列表2")).click();
+		
+		driver.findElement(By.cssSelector("#left-title > li.menu-list.nav-active > ul > li.active > a")).click();
+		
+//		driver.findElement(By.cssSelector("#left-title > li.menu-list.nav-active > ul > li:nth-child(1) > a")).click();
+//		driver.findElement(By.name("phone")).sendKeys("14530022000");
+//		driver.findElement(By.cssSelector("body > section > div.main-content > div.wrapper > div > div > section > div > div > form > div.form-group.inputfirst > input")).click();
+//		
+//		//更多操作
+//		driver.findElement(By.cssSelector("body > section > div.main-content > div.wrapper > div > div > section > div > div > table > tbody > tr:nth-child(1) > td:nth-child(14) > div > button")).click();
+//		//小幅度下拉
+//		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();",
+//				driver.findElement(By.cssSelector("body > section > div.main-content > div.wrapper > div > div > section > div > div > table > tbody > tr:nth-child(1) > td:nth-child(14) > div > ul > li:nth-child(4) > a")));
+//		//约老班课
+//		driver.findElement(By.cssSelector("body > section > div.main-content > div.wrapper > div > div > section > div > div > table > tbody > tr:nth-child(1) > td:nth-child(14) > div > ul > li:nth-child(4) > a")).click();
+//		
+		
+		Thread.sleep(3000);
+		//创建句柄
+//		String classUrl = driver.getCurrentUrl();
+//		System.out.println(classUrl);
+//		driver.switchTo().window(classUrl);
+//		driver.switchTo().window("http://qa-admin.uuabc.com/index.php?m=GroupClass&c=GroupClass%2FGroupClass&a=addAuditionClassList&stuId=207734&course_type=1");
+		
+//		type:1
+//		Set<String> winHandels = driver.getWindowHandles(); // 得到当前窗口的set集合
+//		   	winHandels = driver.getWindowHandles();
+//		    List<String> it = new ArrayList<String>(winHandels); // 将set集合存入list对象
+//		    driver.switchTo().window(it.get(1)); // 切换到弹出的新窗口
+//		    Thread.sleep(1000);
+//		     String url=driver.getCurrentUrl(); //获取新窗口的url
+//		     System.out.println(url);
+//		     driver.switchTo().window(it.get(0)); // 返回至原页面
+
+		// 获取当前页面句柄  
+        String handle = driver.getWindowHandle();  
+        // 获取所有页面的句柄，并循环判断不是当前的句柄 
+        for (String handles : driver.getWindowHandles()) {  
+            if (handles.equals(handle))  
+                continue;  
+            driver.switchTo().window(handles);  
+        } 
+
+		
+		//创建班课
+		driver.findElement(By.cssSelector("body > section > div > div > div > div > section > header > div > div > a")).click();
 	}
 	
 	@After
