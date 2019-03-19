@@ -11,7 +11,9 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
-import org.junit.*;
+//import org.junit.*;
+import org.testng.annotations.*;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -29,7 +31,7 @@ public class frist {
 	private String url_admin;
 	private String Add = null;
 	
-	@Before
+	@BeforeMethod
 	public void initial() {
 		try {
 			Properties props =new Properties();
@@ -73,7 +75,7 @@ public class frist {
 		}
 	}
 	
-	@After
+	@AfterMethod
 	public void destory() {
 		System.out.println("执行完成");
 //		driver.quit();

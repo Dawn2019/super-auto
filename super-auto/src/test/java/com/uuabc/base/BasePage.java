@@ -60,7 +60,7 @@ public class BasePage {
 	
 	/** 等待元素出现,判断是否可以点击  */
 	public static WebElement waitClickAndMark(WebElement wbElm) {
-		DropList(wbElm);
+//		DropList(wbElm);
 		wait.until(ExpectedConditions.elementToBeClickable(wbElm));
 		JQueryAddCss(wbElm);
 		return wbElm;
@@ -153,8 +153,12 @@ public class BasePage {
 				}
 			}
 			if(event != null && event.equals("click")) {
+				if(value.equals("dropList")) {
+					 ((JavascriptExecutor)driver).executeScript("window.scrollTo(0,document.body.scrollHeight)");
+				}
 				waitClickAndMark(driver.findElement(getBy(Type,webelement))).click();
 			}
+			
 			if(event != null && event.equals("clear")) {
 				waitClickAndMark(driver.findElement(getBy(Type,webelement))).clear();
 			}
