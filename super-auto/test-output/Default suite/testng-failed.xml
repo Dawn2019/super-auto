@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.uuabc.run.frist">
+      <class name="com.uuabc.run.home_test">
         <methods>
-          <include name="run001"/>
-          <include name="initial"/>
           <include name="destory"/>
+          <include name="initial"/>
+          <include name="run001"/>
         </methods>
-      </class> <!-- com.uuabc.run.frist -->
+      </class> <!-- com.uuabc.run.home_test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -11,8 +11,8 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
-//import org.junit.*;
-import org.testng.annotations.*;
+import org.junit.*;
+//import org.testng.annotations.*;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -31,7 +31,7 @@ public class frist {
 	private String url_admin;
 	private String Add = null;
 	
-	@BeforeMethod
+	@Before
 	public void initial() {
 		try {
 			Properties props =new Properties();
@@ -55,8 +55,14 @@ public class frist {
 		List<String> code = new ArrayList<String>();
 		try {
 			
+			//后台登录
 			action.add("AdminLogin");
+			//进入老师列表
+			action.add("ToTeacherList");
+			//添加老师
 			action.add("AddTeacherNew");
+			//给老师签约
+			action.add("AddTeacherContract");
 			
 			for(int a = 0 ;a<action.size();a++) {
 				String aaa= action.get(a);
@@ -75,7 +81,7 @@ public class frist {
 		}
 	}
 	
-	@AfterMethod
+	@After
 	public void destory() {
 		System.out.println("执行完成");
 //		driver.quit();

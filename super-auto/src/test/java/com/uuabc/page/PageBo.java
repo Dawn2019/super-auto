@@ -22,28 +22,33 @@ public class PageBo extends BasePage {
 	public PageBo(WebDriver driver) {
 		super(driver);
 	}
-//	private static WebDriver driver;	
 
 	public String specialCreate(String code , int...values ) {
 		info info = new info();
 		try {
-			if(code.indexOf("moveToElement") != -1) {
+			if(code.indexOf("moveToElement") != -1) {	//是否为鼠标悬停事件
 				info = EventMapper.getTypeByCode(code);
 				String Type = info.getType();
 				String value = info.getValue();
 				BasePage.moveToElement(Type,value);
-			}else if(code.indexOf("frame") != -1) {
+			}else if(code.indexOf("frame") != -1) {		//是否为iframe浮窗切换事件
 				info = EventMapper.getTypeByCode(code);
 				String Type =info.getType();
 				String event = info.getEvent();
 				String value =info.getValue();
-				BasePage.frame(event,Type,value);
-			}else if(code.indexOf("handles") != -1) {
+				BasePage.frame(event,value,Type);
+			}
+//			else if(code.indexOf("db") != -1) {		//进行写入操作时是否需要使用数据库
+//				info = EventMapper.getTypeByCode(code);
+//				String event = info.getEvent();
+//				String value =info.getValue();
+//				BasePage.handles(event,value);
+//			}
+			else if(code.indexOf("handles") != -1) {	//是否要切换句柄
 				info = EventMapper.getTypeByCode(code);
-				String Type =info.getType();
 				String event = info.getEvent();
 				String value =info.getValue();
-				BasePage.handles(event,Type,value);
+				BasePage.handles(event,value);
 			}else {
 				info = EventMapper.getTypeByCode(code);
 				String Webelement = info.getWebelement();
@@ -53,7 +58,7 @@ public class PageBo extends BasePage {
 				BasePage.Event(event, value, Type, Webelement);
 			}
 		}catch (Exception e) {
-			System.out.println("出现异常.。。");
+			System.out.println("出现异常。。");
 			File files = null;
 			try {
 				fail();

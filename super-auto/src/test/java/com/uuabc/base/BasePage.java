@@ -14,6 +14,7 @@ import java.util.Set;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 
+import com.uuabc.sql.EventMapper;
 import com.uuabc.sql.UserNowInfo;
 import com.uuabc.util.*;
 
@@ -106,25 +107,18 @@ public class BasePage {
 		return null;
 	}
 	
-	/** 跳转至当前句柄  */
-	public static WebElement handles(String Type,String value,String event) {
-        if(value != null  && event == "TheHandles") {
-        	String handle = driver.getWindowHandle();
-            // 获取所有页面的句柄，并循环判断不是当前的句柄 
-            for (String handles : driver.getWindowHandles()) {  
-                if (handles.equals(handle)) {
-                driver.switchTo().window(handles);  
-                }
-            }
-        }
-        //根据value的值决定跳那个句柄
-        if(value != null  && event == "OthersHandles") {
-        	Set<String> windHandels = driver.getWindowHandles();
-        	List<String> it =new ArrayList<String>(windHandels);
-        	int wh = Integer.parseInt(value);
-        	driver.switchTo().window(it.get(wh));
-        }
-		return null;
+	/**
+	 * @author Dawn
+	 * 
+	 * * 跳转至当前句柄  */
+	public static WebElement handles(String event,String value) {
+		if(value != null) {
+		Set<String> winHandels=driver.getWindowHandles();// 得到当前窗口的set集合
+        List<String> it = new ArrayList<String>(winHandels); // 将set集合存入list对象
+        driver.switchTo().window(it.get(Integer.parseInt(value)));// 切换到哪个窗口
+		}
+        return null;
+        
 	}
 	
 	
@@ -134,17 +128,29 @@ public class BasePage {
 			if(event != null && event.equals("sendKeys")) {
 				try {
 					Thread.currentThread().sleep(1000);
+					info info = new info();
 					UserBase ub =new UserBase();
-					String paramter = ub.rdEmail();
+					String NewEmail = ub.rdEmail();
+					String NewPhone = ub.rdPhone();
 					if(value.equals("rdEmail")) {
-						UserNowInfo.updateEmail(paramter,UserBase.NowStringTime());
+						UserNowInfo.updateEmail(NewEmail,UserBase.NowStringTime());
 						waitVisibilityAndMark(driver.findElement
-								(getBy(Type, webelement))).sendKeys(paramter);
+								(getBy(Type, webelement))).sendKeys(NewEmail);
 					}else if(value.equals("writeEmail")) {
-						info email = UserNowInfo.getValueByType("TeacherEmail");
+						info = UserNowInfo.getValueByType("TeacherEmail");
+						String createdEmail = info.getParameterValue();
 						waitVisibilityAndMark(driver.findElement
-								(getBy(Type, webelement))).sendKeys(value);
-					}else {
+								(getBy(Type, webelement))).sendKeys(createdEmail);
+					}else if(value.equals("rdPhone")) {
+						UserNowInfo.updatephone(NewPhone,UserBase.NowStringTime());
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(NewPhone);
+					}else if(value.equals("writePhone")){
+						info = UserNowInfo.getValueByType("StudentPhone");
+						String StudentPhone = info.getParameterValue();
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(StudentPhone);
+					}else{
 						waitVisibilityAndMark(driver.findElement
 								(getBy(Type, webelement))).sendKeys(value);
 					}
@@ -164,6 +170,47 @@ public class BasePage {
 			}
 		return null;
 	}
+		
+//		/** 用户基本事件操作*/
+//		public static WebElement WriteParamter(String event,String value,String Type,
+//				String webelement) throws InterruptedException {
+//			if(event != null && event.equals("sendKeys")) {
+//				try {
+//					Thread.currentThread().sleep(1000);
+//					info info = new info();
+//					UserBase ub =new UserBase();
+//					String NewEmail = ub.rdEmail();
+//					if(value.equals("rdEmail")) {
+//						UserNowInfo.updateEmail(NewEmail,UserBase.NowStringTime());
+//						waitVisibilityAndMark(driver.findElement
+//								(getBy(Type, webelement))).sendKeys(NewEmail);
+//					}else if(value.equals("writeEmail")) {
+//						info = UserNowInfo.getValueByType("TeacherEmail");
+//						String createdEmail = info.getParameterValue();
+//						waitVisibilityAndMark(driver.findElement
+//								(getBy(Type, webelement))).sendKeys(createdEmail);
+//					}else if(value.equals("rdPhone")){
+//						
+//					}else{
+//						waitVisibilityAndMark(driver.findElement
+//								(getBy(Type, webelement))).sendKeys(value);
+//					}
+//				} catch (InterruptedException e) {
+//					e.printStackTrace();
+//				}
+//			}
+//			if(event != null && event.equals("click")) {
+//				if(value.equals("dropList")) {
+//					 ((JavascriptExecutor)driver).executeScript("window.scrollTo(0,document.body.scrollHeight)");
+//				}
+//				waitClickAndMark(driver.findElement(getBy(Type,webelement))).click();
+//			}
+//			
+//			if(event != null && event.equals("clear")) {
+//				waitClickAndMark(driver.findElement(getBy(Type,webelement))).clear();
+//			}
+//		return null;
+//	}
 		
 }
 

@@ -30,7 +30,8 @@ public class UserBase {
 		String NowString = df.format(new Date());// new Date()为获取当前系统时间
 		return NowString;
 	}
-	
+
+	 
 	//当前时间戳，10位
 	public static String StringTenTime(){
 		String StringTenTime = String.valueOf(new Date().getTime()).substring(0,10);
