@@ -20,7 +20,7 @@ CREATE TABLE `ui_event_actionCodes` (
 ) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8 COMMENT='用户操作';
 
 
-CREATE TABLE `ui_event_config` (
+CREATE TABLE `ui_event_paramter` (
   `id` int(10) NOT NULL AUTO_INCREMENT COMMENT '自增主键id',
   `parameterName` varchar(20) NOT NULL COMMENT '调用时使用的参数名',
   `parameterValues` varchar(50) NOT NULL COMMENT '通过参数名+创建时间渠道对应的结果',
