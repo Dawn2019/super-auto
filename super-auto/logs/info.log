@@ -1,0 +1,1109 @@
+2019-03-21 13:02:16,955 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:02:18,208 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:02:18,509 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:19,453 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 13:02:19,626 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 13:02:20,404 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 13:02:21,338 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:22,487 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入英文名
+2019-03-21 13:02:22,660 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:22,829 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 13:02:23,050 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 13:02:24,257 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入邮箱
+2019-03-21 13:02:24,514 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:25,753 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：输入当前居住地
+2019-03-21 13:02:25,948 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 13:02:27,796 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入老师邮箱
+2019-03-21 13:02:28,228 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 13:02:28,899 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 13:02:29,040 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 13:02:30,342 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 13:02:30,518 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:31,205 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:32,360 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:33,498 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:34,627 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:35,730 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:36,836 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:36,931 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:37,096 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:02:37,243 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 13:02:38,020 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 13:02:38,642 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 13:02:38,793 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:45,332 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:35:46,558 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:35:46,721 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:47,280 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 13:35:47,457 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 13:35:48,263 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 13:35:49,086 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:50,240 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入英文名
+2019-03-21 13:35:50,441 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:50,609 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 13:35:50,845 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 13:35:51,991 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入邮箱
+2019-03-21 13:35:52,322 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:53,568 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：输入当前居住地
+2019-03-21 13:35:53,804 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 13:35:55,661 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入老师邮箱
+2019-03-21 13:35:56,269 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 13:35:57,013 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 13:35:57,196 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 13:35:58,473 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 13:35:58,660 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:35:59,338 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:00,482 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:01,623 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:02,740 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:03,848 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:05,004 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:05,094 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:05,247 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:05,394 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 13:36:06,177 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 13:36:06,768 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 13:36:06,913 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:51,708 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:36:52,929 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:36:53,091 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:36:53,648 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：学生管理  48653
+2019-03-21 13:36:53,857 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：试听学生  48221
+2019-03-21 13:36:55,866 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加学生
+2019-03-21 13:36:57,468 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入手机号
+2019-03-21 13:36:58,693 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入中文名
+2019-03-21 13:36:59,824 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入英文名
+2019-03-21 13:37:00,046 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                                        请选择
+                                                        小班
+中班
+大班
+一年级
+二年级
+三年级
+四年级
+五年级
+六年级
+初一
+初二
+初三
+高一
+高二
+高三
+                                                    
+2019-03-21 13:37:00,271 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：小班
+2019-03-21 13:37:00,376 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:37:00,529 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                                        请选择
+                                                        2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+                                                    
+2019-03-21 13:37:00,760 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：2
+2019-03-21 13:37:00,891 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:37:31,345 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#laiyuan_tree > dl:nth-child(1) > dd:nth-child(5) > dl > dd:nth-child(2) > dl > dt > t"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56444}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 4b4a4849ad590eef7a7cbbe57c87025e
+*** Element info: {Using=css selector, value=#laiyuan_tree > dl:nth-child(1) > dd:nth-child(5) > dl > dd:nth-child(2) > dl > dt > t}
+2019-03-21 13:49:51,184 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:49:52,412 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:49:52,565 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:49:53,096 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 13:49:53,271 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 13:49:53,946 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 13:49:54,903 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:49:56,063 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入英文名
+2019-03-21 13:49:56,288 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:49:56,476 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 13:49:56,712 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 13:49:57,910 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入邮箱
+2019-03-21 13:49:58,210 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:49:59,433 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：输入当前居住地
+2019-03-21 13:49:59,675 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 13:50:01,502 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入老师邮箱
+2019-03-21 13:50:02,053 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 13:50:02,726 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 13:50:02,912 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 13:50:04,193 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 13:50:04,402 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:05,097 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:06,303 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:07,420 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:08,538 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:09,657 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:10,768 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:10,873 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:11,045 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:50:11,225 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 13:50:11,959 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 13:50:12,616 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 13:50:12,777 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:51:02,955 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:51:04,180 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:51:04,343 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:51:34,583 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add_teacher"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50565}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 28a4a98891b66cf685d4e210c145e0e7
+*** Element info: {Using=css selector, value=#add_teacher}
+2019-03-21 13:52:33,949 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 13:52:35,177 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 13:52:35,353 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未获取元素值
+2019-03-21 13:53:05,565 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add_teacher"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50896}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6343212b94c132c1427968f2b69a38b
+*** Element info: {Using=css selector, value=#add_teacher}
+2019-03-21 13:53:05,975 com.uuabc.base.BasePage [main] (PageBo.java:66) ERROR --> 截图成功org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add_teacher"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50896}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6343212b94c132c1427968f2b69a38b
+*** Element info: {Using=css selector, value=#add_teacher}
+2019-03-21 13:53:36,049 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#teacher_form_edit > div:nth-child(1) > label:nth-child(2) > input"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50896}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6343212b94c132c1427968f2b69a38b
+*** Element info: {Using=css selector, value=#teacher_form_edit > div:nth-child(1) > label:nth-child(2) > input}
+2019-03-21 13:53:36,398 com.uuabc.base.BasePage [main] (PageBo.java:66) ERROR --> 截图成功org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#teacher_form_edit > div:nth-child(1) > label:nth-child(2) > input"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50896}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6343212b94c132c1427968f2b69a38b
+*** Element info: {Using=css selector, value=#teacher_form_edit > div:nth-child(1) > label:nth-child(2) > input}
+2019-03-21 14:15:18,739 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:15:19,959 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:15:20,111 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:15:50,281 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add_teacher"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55874}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 769e0eb2b2a225ca3b5dece83628df9f
+*** Element info: {Using=css selector, value=#add_teacher}
+2019-03-21 14:15:50,671 com.uuabc.base.BasePage [main] (PageBo.java:66) ERROR --> 截图成功org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add_teacher"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55874}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 769e0eb2b2a225ca3b5dece83628df9f
+*** Element info: {Using=css selector, value=#add_teacher}
+2019-03-21 14:16:09,968 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:11,181 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:11,329 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:11,892 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 14:16:12,047 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 14:16:12,848 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 14:16:13,725 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:14,876 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:15,062 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:15,218 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 14:16:15,444 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 14:16:16,631 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:16,922 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:18,146 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:18,363 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 14:16:20,218 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:21,009 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 14:16:21,707 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 14:16:21,897 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 14:16:23,203 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 14:16:23,612 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:23,911 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:25,078 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:26,194 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:27,313 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:28,424 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:29,574 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:29,687 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:29,826 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:16:29,973 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 14:16:30,689 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 14:16:31,337 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 14:16:31,479 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:17:46,660 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:47,881 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:48,046 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:17:48,649 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 14:17:48,820 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 14:17:49,590 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 14:17:50,405 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:17:51,556 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:51,748 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:17:51,907 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 14:17:52,146 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 14:17:53,338 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:53,676 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:17:54,918 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:55,147 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 14:17:56,906 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：
+2019-03-21 14:17:57,547 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 14:17:58,159 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 14:17:58,401 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 14:17:59,670 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 14:17:59,824 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:00,476 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:01,623 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:02,742 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:03,906 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:05,075 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:06,184 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:06,295 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:06,449 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:18:06,583 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 14:18:07,321 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 14:18:07,983 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 14:18:08,116 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:29,070 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 14:19:30,270 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 14:19:30,426 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:31,019 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师管理  3369
+2019-03-21 14:19:31,196 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：老师列表2
+2019-03-21 14:19:31,947 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加老师
+2019-03-21 14:19:32,808 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:33,946 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入英文名
+2019-03-21 14:19:34,143 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:34,312 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-03-21 14:19:34,536 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：爱尔兰
+2019-03-21 14:19:35,720 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入邮箱
+2019-03-21 14:19:36,021 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:37,246 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：输入当前居住地
+2019-03-21 14:19:37,440 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：保存
+2019-03-21 14:19:39,157 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：请输入老师邮箱
+2019-03-21 14:19:39,772 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：搜索
+2019-03-21 14:19:40,399 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：更多操作
+2019-03-21 14:19:40,630 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：签约
+2019-03-21 14:19:41,884 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：新增签约
+2019-03-21 14:19:42,073 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:42,757 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:43,904 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:45,024 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:46,144 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:47,253 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:48,418 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:48,511 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:48,662 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 14:19:48,789 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：提交更改
+2019-03-21 14:19:49,542 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：OK
+2019-03-21 14:19:50,182 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：开启
+2019-03-21 14:19:50,329 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 15:56:47,763 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 15:56:48,963 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 15:56:49,107 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 15:56:49,660 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:02:18,899 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:02:20,101 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:02:20,269 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:02:20,861 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:02:21,018 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:02:52,108 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div > div:nth-child(1) > button"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58510}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 44ff4bc7fb41c8730d28b73a623d839b
+*** Element info: {Using=css selector, value=#app > div > div:nth-child(1) > button}
+2019-03-21 16:05:43,144 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:05:44,369 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:05:44,518 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:05:45,049 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:05:45,193 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:06:16,149 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div > div:nth-child(1) > button"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64470}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 53e017da85605a60ab2b5a5233eee2c3
+*** Element info: {Using=css selector, value=#app > div > div:nth-child(1) > button}
+2019-03-21 16:07:30,068 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:07:31,286 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:07:31,464 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:07:32,001 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:07:32,163 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:08:03,139 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div > div:nth-child(1) > button"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64867}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: b323530ded564093c28d3f912b313855
+*** Element info: {Using=css selector, value=#app > div > div:nth-child(1) > button}
+2019-03-21 16:08:41,240 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:08:42,463 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:08:42,656 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:08:43,611 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:08:43,775 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:09:14,764 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div > div:nth-child(1) > button"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65152}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: cf2be69af38118c12f88b3d8abde600d
+*** Element info: {Using=css selector, value=#app > div > div:nth-child(1) > button}
+2019-03-21 16:10:19,390 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:10:20,637 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:10:20,774 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:10:21,303 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:10:21,442 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:11:32,597 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:11:33,861 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:11:34,012 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:11:34,553 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:11:34,708 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:47:12,037 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:47:13,305 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:47:13,481 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:47:14,150 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:47:14,744 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:47:15,817 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加车次
+2019-03-21 16:47:15,899 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62878}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 82c3db3eaca80bde88684e17597d264d
+2019-03-21 16:47:58,776 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 16:48:00,071 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 16:48:00,248 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 16:48:01,043 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 16:48:01,289 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 16:49:06,877 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加车次
+2019-03-21 16:49:07,249 com.uuabc.base.BasePage [main] (PageBo.java:61) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63119}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 7d88cdd94c9673e81d8ab58c885c6bad
+2019-03-21 17:19:03,188 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:19:04,435 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:19:04,638 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:19:05,247 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:19:05,403 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:19:06,486 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchFrameException: no such frame
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51542}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 1f03b30cae19f6d8ed386b33f33c7bcb
+2019-03-21 17:19:41,589 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:19:43,368 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:19:44,028 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:19:45,054 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:19:45,919 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:21:09,028 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:21:10,262 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:21:10,424 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:21:11,041 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:21:11,203 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:21:12,768 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:21:12,839 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51910}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 160441594d52ea179228da85aca5dd17
+2019-03-21 17:21:31,681 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:21:33,552 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:21:34,406 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:21:35,584 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:21:36,392 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:27:09,833 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:27:10,196 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52016}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5cd255109f48cb6b59361f42eaac7df9
+2019-03-21 17:27:26,108 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:27:27,870 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:27:28,590 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:27:29,676 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:27:30,576 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:28:12,553 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:28:12,913 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52702}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 4400994198f2148dae43fdefc2c84395
+2019-03-21 17:31:51,583 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:31:53,335 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:31:54,019 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:31:54,922 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:31:55,698 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:32:56,320 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:32:57,118 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53759}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 9129d68699e85e81f1abbbc90d9e6d10
+2019-03-21 17:40:56,188 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:40:57,418 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:40:57,577 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:40:58,461 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:40:58,667 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:41:00,581 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:41:01,165 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55485}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e267c488efead3c445d3efbb8be8a6ee
+2019-03-21 17:41:33,795 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 17:41:36,554 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 17:41:39,044 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 17:41:40,856 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 17:41:46,463 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 17:45:20,038 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 17:45:24,915 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55694}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 670da410e174da316038dfe5fff5e9e7
+2019-03-21 18:08:06,277 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员用户名
+2019-03-21 18:08:07,505 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：管理员密码
+2019-03-21 18:08:07,668 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 未找到该元素
+2019-03-21 18:08:08,246 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次管理
+2019-03-21 18:08:08,410 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：车次列表
+2019-03-21 18:08:09,451 com.uuabc.base.BasePage [main] (BasePage.java:192) INFO  --> 操作：添加车次
+2019-03-21 18:08:09,500 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58838}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 3084edbd9ec8e6a2f57ec62ce42920ad
+2019-03-21 18:10:00,537 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：管理员用户名
+2019-03-21 18:10:01,765 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：管理员密码
+2019-03-21 18:10:01,920 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 未找到该元素
+2019-03-21 18:10:02,534 com.uuabc.base.BasePage [main] (BasePage.java:191) INFO  --> 操作：车次管理
+2019-03-21 18:10:02,726 com.uuabc.base.BasePage [main] (BasePage.java:191) INFO  --> 操作：车次列表
+2019-03-21 18:10:03,967 com.uuabc.base.BasePage [main] (BasePage.java:191) INFO  --> 操作：添加车次
+2019-03-21 18:10:04,048 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59364}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 612969ea0739e9e2e2d6e5d35623a3c7
+2019-03-21 18:11:35,584 com.uuabc.base.BasePage [main] (BasePage.java:195) INFO  --> 操作：管理员用户名
+2019-03-21 18:11:36,796 com.uuabc.base.BasePage [main] (BasePage.java:195) INFO  --> 操作：管理员密码
+2019-03-21 18:11:36,940 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 未找到该元素
+2019-03-21 18:11:37,494 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：车次管理
+2019-03-21 18:11:37,643 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：车次列表
+2019-03-21 18:11:38,701 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：添加车次
+2019-03-21 18:11:38,787 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59793}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: d80c1aaad03bb09ef821123c7393d309
+2019-03-21 18:52:37,777 com.uuabc.base.BasePage [main] (BasePage.java:195) INFO  --> 操作：管理员用户名
+2019-03-21 18:52:39,032 com.uuabc.base.BasePage [main] (BasePage.java:195) INFO  --> 操作：管理员密码
+2019-03-21 18:52:39,257 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 未找到该元素
+2019-03-21 18:52:39,930 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：车次管理
+2019-03-21 18:52:40,131 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：车次列表
+2019-03-21 18:52:41,293 com.uuabc.base.BasePage [main] (BasePage.java:193) INFO  --> 操作：添加车次
+2019-03-21 18:52:41,345 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60591}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e1a3f0c5cca480152fbac4b011fe7114
+2019-03-21 18:56:33,884 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 18:56:35,096 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 18:56:35,257 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 18:56:35,880 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 18:56:36,034 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 18:56:37,032 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————java.lang.NumberFormatException: For input string: "abc"
+2019-03-21 19:01:44,051 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:01:45,253 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:01:45,426 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:01:46,048 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:01:46,222 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:01:47,383 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：添加车次
+2019-03-21 19:01:47,443 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62232}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 489dcf8e95013152fb6c9e4d8ddb0419
+2019-03-21 19:03:37,013 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:03:38,218 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:03:38,377 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:03:38,953 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:03:39,122 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:03:40,128 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————java.lang.NumberFormatException: For input string: "ssdd"
+2019-03-21 19:04:30,666 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:04:31,878 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:04:32,084 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:04:32,753 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:04:32,925 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:04:33,955 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————java.lang.NumberFormatException: For input string: "ssdd"
+2019-03-21 19:05:56,844 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:05:58,688 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:05:58,856 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:05:59,535 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:05:59,724 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:06:00,932 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————java.lang.NumberFormatException: For input string: "ssdd"
+2019-03-21 19:08:04,443 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:08:05,642 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:08:05,787 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:08:06,357 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:08:06,510 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:08:07,401 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————java.lang.NumberFormatException: For input string: "ssdd"
+2019-03-21 19:09:23,367 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员用户名
+2019-03-21 19:09:24,612 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：管理员密码
+2019-03-21 19:09:24,790 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 未找到该元素
+2019-03-21 19:09:25,432 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次管理
+2019-03-21 19:09:25,603 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：车次列表
+2019-03-21 19:09:27,092 com.uuabc.base.BasePage [main] (BasePage.java:194) INFO  --> 操作：添加车次
+2019-03-21 19:09:27,175 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63897}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: f5db2841c43c2cdb0404f9dc985c4498
+2019-03-21 19:18:04,137 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 操作：管理员用户名
+2019-03-21 19:18:05,371 com.uuabc.base.BasePage [main] (BasePage.java:198) INFO  --> 操作：管理员密码
+2019-03-21 19:18:05,533 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 未找到该元素
+2019-03-21 19:18:06,092 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：车次管理
+2019-03-21 19:18:06,251 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：车次列表
+2019-03-21 19:18:07,324 com.uuabc.base.BasePage [main] (BasePage.java:196) INFO  --> 操作：添加车次
+2019-03-21 19:18:07,384 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53235}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: eebde4fc12ee6caa7e1b4d4d0d776a00
+2019-03-21 19:19:34,003 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员用户名
+2019-03-21 19:19:35,241 com.uuabc.base.BasePage [main] (BasePage.java:199) INFO  --> 操作：管理员密码
+2019-03-21 19:19:35,395 com.uuabc.base.BasePage [main] (BasePage.java:203) INFO  --> 未找到该元素
+2019-03-21 19:19:35,994 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次管理
+2019-03-21 19:19:36,148 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：车次列表
+2019-03-21 19:19:37,488 com.uuabc.base.BasePage [main] (BasePage.java:197) INFO  --> 操作：添加车次
+2019-03-21 19:19:37,604 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63990}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 30424599878377646219abd7e8a2225f
+2019-03-21 19:22:41,810 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：管理员用户名
+2019-03-21 19:22:43,063 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：管理员密码
+2019-03-21 19:22:43,242 com.uuabc.base.BasePage [main] (BasePage.java:206) INFO  --> 未找到该元素
+2019-03-21 19:22:43,845 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 操作：车次管理
+2019-03-21 19:22:44,027 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 操作：车次列表
+2019-03-21 19:23:33,859 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：管理员用户名
+2019-03-21 19:23:35,060 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：管理员密码
+2019-03-21 19:23:35,206 com.uuabc.base.BasePage [main] (BasePage.java:206) INFO  --> 未找到该元素
+2019-03-21 19:23:35,840 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 操作：车次管理
+2019-03-21 19:23:35,993 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 操作：车次列表
+2019-03-21 19:23:37,180 com.uuabc.base.BasePage [main] (BasePage.java:200) INFO  --> 操作：添加车次
+2019-03-21 19:23:37,251 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64823}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 310975cc0e1b6e42a7c46dd48262b4e2
+2019-03-21 19:43:55,516 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员用户名
+2019-03-21 19:43:56,722 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员密码
+2019-03-21 19:43:56,888 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:43:57,422 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次管理
+2019-03-21 19:43:57,580 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次列表
+2019-03-21 19:43:58,595 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：添加车次
+2019-03-21 19:43:58,744 com.uuabc.base.BasePage [main] (PageBo.java:62) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63886}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5b43c21b414b6f4063628ab52ebec112
+2019-03-21 19:45:28,548 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员用户名
+2019-03-21 19:45:29,787 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员密码
+2019-03-21 19:45:29,938 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:45:30,470 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次管理
+2019-03-21 19:45:30,618 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次列表
+2019-03-21 19:45:31,700 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：添加车次
+2019-03-21 19:45:31,770 com.uuabc.base.BasePage [main] (PageBo.java:62) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64011}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: b5282de71495d0168a793e5c44fe3fc1
+2019-03-21 19:50:29,289 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员用户名
+2019-03-21 19:50:30,525 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员密码
+2019-03-21 19:50:30,664 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:50:31,275 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次管理
+2019-03-21 19:50:31,434 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次列表
+2019-03-21 19:50:32,461 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：添加车次
+2019-03-21 19:50:32,623 com.uuabc.base.BasePage [main] (PageBo.java:62) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64256}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 43dc2ab9203b8072349a63c232ed30b5
+2019-03-21 19:52:00,349 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员用户名
+2019-03-21 19:52:01,579 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员密码
+2019-03-21 19:52:01,718 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:52:02,238 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次管理
+2019-03-21 19:52:02,382 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次列表
+2019-03-21 19:53:42,005 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：添加车次
+2019-03-21 19:55:12,050 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员用户名
+2019-03-21 19:55:13,255 com.uuabc.base.BasePage [main] (BasePage.java:212) INFO  --> 操作：管理员密码
+2019-03-21 19:55:13,414 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:55:13,938 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次管理
+2019-03-21 19:55:14,069 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：车次列表
+2019-03-21 19:55:15,213 com.uuabc.base.BasePage [main] (BasePage.java:210) INFO  --> 操作：添加车次
+2019-03-21 19:55:16,583 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 未找到该元素
+2019-03-21 19:55:16,603 com.uuabc.base.BasePage [main] (PageBo.java:62) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61083}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 73dce51c3aae623cb4f5a3c61315a441
+2019-03-21 20:00:22,736 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:00:23,985 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:00:24,127 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:00:24,642 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:00:24,766 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:01:27,328 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:01:28,552 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:01:28,692 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:01:29,221 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:01:29,351 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:01:30,360 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-21 20:01:31,747 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:01:31,766 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61262}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a2b9e42690fbe6e34ad2401c16cb1f4e
+2019-03-21 20:02:13,025 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:02:14,270 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:02:14,442 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:02:15,023 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:02:15,161 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:02:16,362 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-21 20:02:17,734 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:02:17,755 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61336}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: b0411716941f1c9e79de75670bd53e88
+2019-03-21 20:03:20,212 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:03:21,437 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:03:21,595 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:03:22,118 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:03:22,255 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:03:23,449 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-21 20:03:24,806 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:03:24,827 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50781}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 413e29c17127bfa08571b2a3bb70ff03
+2019-03-21 20:04:05,212 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:04:06,423 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:04:06,549 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:04:07,052 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:04:07,183 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:04:08,280 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-21 20:04:09,690 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:14:17,288 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-21 20:14:18,523 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-21 20:14:18,665 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-21 20:14:19,259 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-21 20:14:19,416 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-21 20:14:20,435 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-21 20:14:20,492 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59898}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e1c9a577497638aeadd1df37497f9b90
+2019-03-22 10:13:06,630 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员用户名
+2019-03-22 10:13:07,843 com.uuabc.base.BasePage [main] (BasePage.java:207) INFO  --> 操作：管理员密码
+2019-03-22 10:13:07,981 com.uuabc.base.BasePage [main] (BasePage.java:211) INFO  --> 未找到该元素
+2019-03-22 10:13:08,543 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次管理
+2019-03-22 10:13:08,712 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：车次列表
+2019-03-22 10:13:09,771 com.uuabc.base.BasePage [main] (BasePage.java:205) INFO  --> 操作：添加车次
+2019-03-22 10:13:09,835 com.uuabc.base.BasePage [main] (PageBo.java:59) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-QO597FN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Dawn\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55805}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: f6d9e38ff177f92b907fdef66f13d5d3
+2019-03-22 10:29:56,200 com.uuabc.base.BasePage [main] (BasePage.java:204) INFO  --> 操作：管理员用户名
+2019-03-22 10:29:57,410 com.uuabc.base.BasePage [main] (BasePage.java:204) INFO  --> 操作：管理员密码
+2019-03-22 10:29:57,551 com.uuabc.base.BasePage [main] (BasePage.java:208) INFO  --> 未找到该元素
+2019-03-22 10:29:58,087 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：车次管理
+2019-03-22 10:29:58,216 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：车次列表
+2019-03-22 10:29:59,249 com.uuabc.base.BasePage [main] (BasePage.java:202) INFO  --> 操作：添加车次
+2019-03-22 10:30:00,775 com.uuabc.base.BasePage [main] (BasePage.java:208) INFO  --> 未找到该元素

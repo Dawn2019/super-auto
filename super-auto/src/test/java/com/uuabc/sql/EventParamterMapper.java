@@ -6,9 +6,9 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 import com.uuabc.util.JdbcUtil;
-import com.uuabc.util.UserBase;
+import com.uuabc.util.UserUtil;
 import com.uuabc.util.info;
-public class UserNowInfo {
+public class EventParamterMapper {
 
 		/**
 		 * 
@@ -25,8 +25,8 @@ public class UserNowInfo {
 			try {
 				conn = JdbcUtil.getConnection();
 				stmt = conn.createStatement();
-				String sql = "INSERT INTO `auto_test`.`ui_event_config` (`parameterName`, `parameterValue`, `creat_time`, `update_time`,`description`) \r\n" + 
-						"VALUES ('TeacherEmail', '"+Value+"', '"+UserBase.StringTenTime()+"', '"+nowTime+"', 'student phone');";
+				String sql = "INSERT INTO `auto_test`.`ui_event_paramter` (`parameterName`, `parameterValue`, `creat_time`, `update_time`,`description`) \r\n" + 
+						"VALUES ('TeacherEmail', '"+Value+"', '"+UserUtil.StringTenTime()+"', '"+nowTime+"', 'student phone');";
 				rs = stmt.executeUpdate(sql);
 				JdbcUtil.close(conn, stmt, rs1);
 			} catch (Exception e) {
@@ -53,7 +53,7 @@ public class UserNowInfo {
 				conn = JdbcUtil.getConnection();
 				stmt = conn.createStatement();
 				String sql = "INSERT INTO `auto_test`.`ui_event_config` (`parameterName`, `parameterValue`, `creat_time`, `update_time`,`description`) \r\n" + 
-						"VALUES ('StudentPhone', '"+Value+"', '"+UserBase.StringTenTime()+"', '"+nowTime+"', 'teacher email');";
+						"VALUES ('StudentPhone', '"+Value+"', '"+UserUtil.StringTenTime()+"', '"+nowTime+"', 'teacher email');";
 				rs = stmt.executeUpdate(sql);
 				JdbcUtil.close(conn, stmt, rs1);
 			} catch (Exception e) {

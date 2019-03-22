@@ -33,10 +33,8 @@ public class PageBo extends BasePage {
 				BasePage.moveToElement(Type,value);
 			}else if(code.indexOf("frame") != -1) {		//是否为iframe浮窗切换事件
 				info = EventMapper.getTypeByCode(code);
-				String Type =info.getType();
-				String event = info.getEvent();
 				String value =info.getValue();
-				BasePage.frame(event,value,Type);
+				BasePage.frame(value);
 			}
 //			else if(code.indexOf("db") != -1) {		//进行写入操作时是否需要使用数据库
 //				info = EventMapper.getTypeByCode(code);
@@ -58,12 +56,12 @@ public class PageBo extends BasePage {
 				BasePage.Event(event, value, Type, Webelement);
 			}
 		}catch (Exception e) {
-			System.out.println("出现异常。。");
+			log.error("出现错误——————————"+e);
 			File files = null;
 			try {
-				fail();
+//				fail();
 				files = frist.jpg();
-				System.out.println("错误截图成功");
+				log.error("截图成功"+e);
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();

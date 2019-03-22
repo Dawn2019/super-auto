@@ -3,9 +3,11 @@ package com.uuabc.util;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class UserBase {
+public class UserUtil {
 	
-	
+	/**
+	 * @author Dawn
+	 * */
 	//生成随机五位字符串
 	public String numberString() {
 		String numberString = Integer.toString((int)((Math.random()*9+1)*10000));

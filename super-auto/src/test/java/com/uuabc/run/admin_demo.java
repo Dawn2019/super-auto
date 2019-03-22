@@ -26,7 +26,7 @@ import com.uuabc.sql.ActionCodesMapper;
 import com.uuabc.util.SystemUtil;
 import com.uuabc.util.info;
 
-public class home_test {
+public class admin_demo {
 	private static WebDriver driver;
 	private String url_admin;
 	private String Add = null;
@@ -72,11 +72,24 @@ public class home_test {
 			 * Type2：添加试听学生
 			 * */
 			//后台登录
+//			action.add("AdminLogin");
+//			//进入学生列表
+//			action.add("ToStudent2List");
+//			//添加学生
+//			action.add("AddStudent2New");
+			
+			
+			/**
+			 * Type3: 添加车次
+			 * 
+			 * */
+			//后台登录
 			action.add("AdminLogin");
-			//进入学生列表
-			action.add("ToStudent2List");
-			//添加学生
-			action.add("AddStudent2New");
+			//进入车次管理
+			action.add("ToTrainList");
+			//添加车次
+			action.add("AddTrain");
+			
 			
 			
 			

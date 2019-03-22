@@ -19,6 +19,8 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
+//import org.testng.annotations.AfterMethod;
+//import org.testng.annotations.BeforeMethod;
 
 import com.uuabc.base.BasePage;
 import com.uuabc.page.PageBo;
@@ -96,7 +98,7 @@ public class frist {
 	public static File jpg() throws IOException {
 		String dataString = getDateFormat();
 		File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(srcFile, new File("D:\\ui_png\\ "+dataString+"s.png"));
+			FileUtils.copyFile(srcFile, new File("C:\\ui_png\\ "+dataString+"s.png"));
 			return srcFile;
 	}
 	
