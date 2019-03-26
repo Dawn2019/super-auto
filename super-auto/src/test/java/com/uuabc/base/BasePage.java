@@ -1,22 +1,31 @@
 package com.uuabc.base;
 
+<<<<<<< HEAD
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Properties;
 import java.util.Set;
 
+<<<<<<< HEAD
 import org.apache.commons.io.FileUtils;
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+<<<<<<< HEAD
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -31,7 +40,14 @@ import com.uuabc.util.info;
 public class BasePage {
 	protected static WebDriver driver;
 	protected static WebDriverWait wait;
+<<<<<<< HEAD
 
+=======
+	
+	/**
+	 * 设置最大等待时长30s
+	 * */
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 	public BasePage(WebDriver dirver) {
 			this.driver = dirver;
 		wait = new WebDriverWait(driver, 30);
@@ -84,7 +100,7 @@ public class BasePage {
 	public static WebElement waitClickAndMark(WebElement wbElm) {
 		logOpertation(wbElm);
 		wait.until(ExpectedConditions.elementToBeClickable(wbElm));
-		JQueryAddCss(wbElm);
+//		JQueryAddCss(wbElm);
 		return wbElm;
 	}
 	
@@ -92,7 +108,11 @@ public class BasePage {
 	public static WebElement waitVisibilityAndMark(WebElement wbElm) {
 		wait.until(ExpectedConditions.visibilityOf(wbElm));
 		logOpertation(wbElm);
+<<<<<<< HEAD
 		JQueryAddCss(wbElm);
+=======
+//		JQueryAddCss(wbElm);
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 		return wbElm;
 	}
 	
@@ -125,7 +145,10 @@ public class BasePage {
 		return null;
 	}
 	
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 	/**
 	 * 跳转至当前句柄 
 	 * @author Dawn
@@ -147,15 +170,48 @@ public class BasePage {
 			if(event != null && event.equals("sendKeys")) {
 				try {
 					Thread.currentThread().sleep(1000);
+<<<<<<< HEAD
 						waitVisibilityAndMark(driver.findElement
 								(getBy(Type, webelement))).sendKeys(value);
+=======
+					info info = new info();
+					UserUtil ub =new UserUtil();
+					String NewEmail = ub.rdEmail();
+					String NewPhone = ub.rdPhone();
+					if(value.equals("rdEmail")) {
+						EventParamterMapper.updateEmail(NewEmail,UserUtil.NowStringTime());
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(NewEmail);
+					}else if(value.equals("writeEmail")) {
+						info = EventParamterMapper.getValueByType("TeacherEmail");
+						String createdEmail = info.getParameterValue();
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(createdEmail);
+					}else if(value.equals("rdPhone")) {
+						EventParamterMapper.updatephone(NewPhone,UserUtil.NowStringTime());
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(NewPhone);
+					}else if(value.equals("writePhone")){
+						info = EventParamterMapper.getValueByType("StudentPhone");
+						String StudentPhone = info.getParameterValue();
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(StudentPhone);
+					}else{
+						waitVisibilityAndMark(driver.findElement
+								(getBy(Type, webelement))).sendKeys(value);
+					}
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
 			}
 			if(event != null && event.equals("click")) {
+<<<<<<< HEAD
 				//需要下拉到底部进行点击
 				if(value.equals("drop_list")) {
+=======
+				if(value.equals("dropList")) {
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 					 ((JavascriptExecutor)driver).executeScript("window.scrollTo(0,document.body.scrollHeight)");
 				}
 				waitClickAndMark(driver.findElement(getBy(Type,webelement))).click();
@@ -164,6 +220,7 @@ public class BasePage {
 			if(event != null && event.equals("clear")) {
 				waitClickAndMark(driver.findElement(getBy(Type,webelement))).clear();
 			}
+<<<<<<< HEAD
 			/**
 			 * @author Dawn
 			 *	拓展:若生成/填写随机参数(phone，email等),使用该方式,正在开发中...
@@ -199,6 +256,12 @@ public class BasePage {
 					waitVisibilityAndMark(driver.findElement
 							(getBy(Type, webelement))).sendKeys(ParameterValue);
 				}
+=======
+			//拓展:若生成/填写随机参数(phone，email等),使用该方式,正在开发中...
+			if(event != null && event.equals("sendKeysParamter")) {
+				waitVisibilityAndMark(driver.findElement
+						(getBy(Type, webelement))).sendKeys(value);
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 			}
 		return null;
 	}
@@ -206,7 +269,10 @@ public class BasePage {
 		
 		/**
 		 * 写入日志信息
+<<<<<<< HEAD
 		 * 
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 		 * */
 		private static void logOpertation(WebElement wbElm) {
 			String text = wbElm.getText();
@@ -224,6 +290,7 @@ public class BasePage {
 			
 		}
 		
+<<<<<<< HEAD
 		/**
 		 * 错误截图
 		 * */
@@ -242,6 +309,8 @@ public class BasePage {
 			return dataString;
 		}
 		
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 }
 
 

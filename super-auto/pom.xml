@@ -36,7 +36,22 @@
     	<artifactId>commons-io</artifactId>
     	<version>2.6</version>
 	</dependency>
+<<<<<<< HEAD
 		<dependency>
+=======
+	<dependency>
+    	<groupId>org.testng</groupId>
+    	<artifactId>testng</artifactId>
+    	<version>6.14.3</version>
+    	<scope>test</scope>
+	</dependency>
+	<dependency>
+    	<groupId>log4j</groupId>
+    	<artifactId>log4j</artifactId>
+    	<version>1.2.17</version>
+	</dependency>
+	<dependency>
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
     	<groupId>commons-logging</groupId>
     	<artifactId>commons-logging</artifactId>
     	<version>1.2</version>

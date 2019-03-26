@@ -4,8 +4,14 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class UserUtil {
+<<<<<<< HEAD:super-auto/src/test/java/com/uuabc/util/UserUtil.java
 	
+=======
+>>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc:super-auto/src/test/java/com/uuabc/util/UserUtil.java
 	
+	/**
+	 * @author Dawn
+	 * */
 	//生成随机五位字符串
 	public String numberString() {
 		String numberString = Integer.toString((int)((Math.random()*9+1)*10000));
@@ -30,7 +36,8 @@ public class UserUtil {
 		String NowString = df.format(new Date());// new Date()为获取当前系统时间
 		return NowString;
 	}
-	
+
+	 
 	//当前时间戳，10位
 	public static String StringTenTime(){
 		String StringTenTime = String.valueOf(new Date().getTime()).substring(0,10);

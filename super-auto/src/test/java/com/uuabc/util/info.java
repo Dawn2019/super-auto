@@ -9,7 +9,7 @@ public class info {
 	private String parameterValue;
 	@Override
 	public String toString() {
-		return "info [type=" + type + ",webelement=" + webelement +",event = "+ event +",value =" + value + "]";
+		return "info [type=" + type + ",webelement=" + webelement +",event = "+ event +",value =" + value + ",parameterValue="+parameterValue+"]";
 	}
 	
 	public String getEvent() {
@@ -39,7 +39,7 @@ public class info {
 	public String getParameterValue() {
 		return parameterValue;
 	}
-	public void setParameterValue(String setParameterName) {
+	public void setParameterValue(String parameterValue) {
 		this.parameterValue = parameterValue;
 	}
 	
