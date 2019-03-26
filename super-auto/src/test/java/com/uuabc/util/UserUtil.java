@@ -3,7 +3,7 @@ package com.uuabc.util;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class UserBase {
+public class UserUtil {
 	
 	
 	//生成随机五位字符串

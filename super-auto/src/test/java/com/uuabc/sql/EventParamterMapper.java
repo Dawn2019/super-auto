@@ -6,17 +6,17 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 import com.uuabc.util.JdbcUtil;
-import com.uuabc.util.UserBase;
+import com.uuabc.util.UserUtil;
 import com.uuabc.util.info;
-public class UserNowInfo {
+public class EventParamterMapper {
 
 		/**
-		 * 
-		 * 新增一位老师时记录邮箱
+		 * @author Dawn
+		 * 更新要参数化的值
 		 *
 		 */
 		
-		public static info updateEmail(String Value,String nowTime) {
+		public static info updateParameter(String parameterName,String Value,String nowTime) {
 			info info = new info();
 			Connection conn;
 			Statement stmt;
@@ -25,8 +25,8 @@ public class UserNowInfo {
 			try {
 				conn = JdbcUtil.getConnection();
 				stmt = conn.createStatement();
-				String sql = "INSERT INTO `auto_test`.`ui_event_config` (`parameterName`, `parameterValues`, `creat_time`, `update_time`,`description`) \r\n" + 
-						"VALUES ('TeacherEmail', '"+Value+"', '"+UserBase.StringTenTime()+"', '"+nowTime+"', 'teacher email');";
+				String sql = "INSERT INTO `auto_test`.`ui_event_paramter` (`parameterName`, `parameterValue`, `creat_time`, `update_time`,`description`) \r\n" + 
+						"VALUES ('"+parameterName+"', '"+Value+"', '"+UserUtil.StringTenTime()+"', '"+nowTime+"', ' ');";
 				rs = stmt.executeUpdate(sql);
 				JdbcUtil.close(conn, stmt, rs1);
 			} catch (Exception e) {
@@ -35,13 +35,12 @@ public class UserNowInfo {
 			}
 			return null;
 		}
-		
 		/**
-		 * 
-		 * 查询老师的邮箱
+		 * @author Dawn
+		 * 查询参数化的值
 		 */
 		
-		public static info getValueByType(String parameterName) {
+		public static info getValueByType(String Value) {
 			info info = new info();
 			Connection conn;
 			Statement stmt;
@@ -49,20 +48,19 @@ public class UserNowInfo {
 			try {
 				conn = JdbcUtil.getConnection();
 				stmt = conn.createStatement();
-				String sql = "select parameterValue from ui_event_config where parameterName='"+parameterName+"'order by id desc";
+				String sql = "select parameterValue from `auto_test`.`ui_event_paramter` where parameterName='"+Value+"' order by id desc limit 1";
 				rs = stmt.executeQuery(sql);
 				if (rs!=null){
-				while (rs.next()) {
+					while(rs.next()) {
 					info.setParameterValue(rs.getString("parameterValue"));
-				}
-				return info;
+					}
 				}
 				JdbcUtil.close(conn, stmt, rs);
+				return info;
 			} catch (Exception e) {
 				e.printStackTrace();
 				throw new RuntimeException(e);
 			}
-			return null;
 		}
 		
 		
