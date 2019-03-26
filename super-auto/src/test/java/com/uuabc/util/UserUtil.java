@@ -4,11 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class UserUtil {
-<<<<<<< HEAD:super-auto/src/test/java/com/uuabc/util/UserUtil.java
-	
-=======
->>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc:super-auto/src/test/java/com/uuabc/util/UserUtil.java
-	
+
 	/**
 	 * @author Dawn
 	 * */

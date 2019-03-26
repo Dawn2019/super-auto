@@ -35,16 +35,7 @@ public class PageBo extends BasePage {
 				String value =info.getValue();
 				BasePage.frame(value);
 			}
-<<<<<<< HEAD
 
-=======
-//			else if(code.indexOf("db") != -1) {		//进行写入操作时是否需要使用数据库
-//				info = EventMapper.getTypeByCode(code);
-//				String event = info.getEvent();
-//				String value =info.getValue();
-//				BasePage.handles(event,value);
-//			}
->>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 			else if(code.indexOf("handles") != -1) {	//是否要切换句柄
 				info = EventMapper.getTypeByCode(code);
 				String event = info.getEvent();
@@ -62,12 +53,8 @@ public class PageBo extends BasePage {
 			log.error("出现错误——————————"+e);
 			File files = null;
 			try {
-//				fail();
-<<<<<<< HEAD
+				fail();
 				files = BasePage.jpg();
-=======
-				files = frist.jpg();
->>>>>>> 829ea08315c5829e72364b421c682dc3d8b0bbcc
 				log.error("截图成功"+e);
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
