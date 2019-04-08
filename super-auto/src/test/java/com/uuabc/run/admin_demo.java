@@ -93,15 +93,15 @@ public class admin_demo {
 			
 			
 			
-			for(int a = 0 ;a<action.size();a++) {
+			for(int a = 0 ;a<action.size();a++) {	//获取action集合中的codes值，将codes值通过逗号进行截取，存放到 codes数组中
 				String aaa= action.get(a);
 				info = ActionCodesMapper.getActionCodes(aaa);
 				String [] codes = info.getType().split(",");
-				for(int nu = 0;nu<codes.length;nu++) {
+				for(int nu = 0;nu<codes.length;nu++) {	//遍历codes数组将codes数组的值存入到code集合中
 					code.add(codes[nu]);
 				}
 			}
-				for(int i=0;i<code.size();i++) {
+				for(int i=0;i<code.size();i++) {	//遍历code集合
 					login(code.get(i));
 				}
 		}
@@ -122,18 +122,4 @@ public class admin_demo {
 		return PageFactory.initElements(driver, PageBo.class).specialCreate(code);
 	}
 
-	public static File jpg() throws IOException {
-		String dataString = getDateFormat();
-		File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(srcFile, new File("D:\\ui_png\\ "+dataString+"s.png"));
-			return srcFile;
-	}
-	
-	/**  */
-	private static String getDateFormat(){
-		Date date = new Date();
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddhhmmss");
-		String dataString = sdf.format(date);
-		return dataString;
-	}
 }
