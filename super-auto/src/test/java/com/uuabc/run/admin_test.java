@@ -4,10 +4,12 @@ import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.*;
 
@@ -75,6 +77,11 @@ public class admin_test {
 		//添加车次
 		driver.findElement(By.cssSelector("#app > div > div:nth-child(1) > button")).click();
 		driver.findElement(By.cssSelector("#app > div > div:nth-child(9) > div > div.el-dialog__body > form > div:nth-child(1) > div > div > input")).sendKeys("test");;
+		
+		
+		//模拟键盘事件
+		Actions action = new Actions(driver);
+		action.sendKeys(Keys.PAGE_DOWN).perform();  
 		
 //		driver.findElement(By.cssSelector("#left-title > li:nth-child(4)")).click();
 //		driver.findElement(By.linkText("老师列表2")).click();

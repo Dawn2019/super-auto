@@ -66,29 +66,31 @@ public class admin_demo {
 //			action.add("AddTeacherNew");
 //			//给老师签约
 //			action.add("AddTeacherContract");
-//			
+			
 			/**
 			 * 
 			 * Type2：添加试听学生
 			 * */
 			//后台登录
-//			action.add("AdminLogin");
-//			//进入学生列表
-//			action.add("ToStudent2List");
-//			//添加学生
+			action.add("AdminLogin");
+			//进入学生列表
+			action.add("ToStudent2List");
+			//添加学生
 //			action.add("AddStudent2New");
+			//约老班课
+			action.add("OldClass");
 			
 			
 			/**
 			 * Type3: 添加车次
 			 * 
 			 * */
-			//后台登录
-			action.add("AdminLogin");
-			//进入车次管理
-			action.add("ToTrainList");
-			//添加车次
-			action.add("AddTrain");
+//			//后台登录
+//			action.add("AdminLogin");
+//			//进入车次管理
+//			action.add("ToTrainList");
+//			//添加车次
+//			action.add("AddTrain");
 			
 			
 			

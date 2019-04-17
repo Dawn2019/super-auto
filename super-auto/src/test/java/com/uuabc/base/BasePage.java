@@ -15,6 +15,7 @@ import org.apache.commons.logging.LogFactory;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -106,9 +107,13 @@ public class BasePage {
 	
 	/** 下拉直到出现某元素 */
 	public static void DropList(WebElement wbElm) {
-		((JavascriptExecutor) driver).executeScript(
-				"return arguments[0].scrollIntoView();", wbElm);
-		
+		Actions action = new Actions(driver);
+		while(wait.until(ExpectedConditions.visibilityOf(wbElm)) == null) {
+			
+			action.sendKeys(Keys.PAGE_DOWN).perform();  
+			((JavascriptExecutor) driver).executeScript(
+					"return arguments[0].scrollIntoView();", wbElm);
+		}
 	}
 	
 	
@@ -230,17 +235,20 @@ public class BasePage {
 		public static File jpg() throws IOException {
 			String dataString = getDateFormat();
 			File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-				FileUtils.copyFile(srcFile, new File("C:\\ui_png\\ "+dataString+"s.png"));
-				return srcFile;
+			FileUtils.copyFile(srcFile, new File("C:\\ui_png\\ "+dataString+"s.png"));
+			return srcFile;
 		}
 		
-		/**  */
+		/** 
+		 * 格式化时间戳
+		 * */
 		private static String getDateFormat(){
 			Date date = new Date();
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddhhmmss");
 			String dataString = sdf.format(date);
 			return dataString;
 		}
+		
 		
 }
 

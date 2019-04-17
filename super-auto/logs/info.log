@@ -1137,3 +1137,307 @@ System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10',
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49299}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
 Session ID: b73f24cc5a4539616a86ee9f8dfe00d3
+2019-04-09 14:31:25,392 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-09 14:31:26,852 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-09 14:31:27,215 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:31:28,218 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：老师管理  3369
+2019-04-09 14:31:28,596 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：老师列表2
+2019-04-09 14:31:30,213 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：添加老师
+2019-04-09 14:31:31,726 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:31:33,096 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：请输入英文名
+2019-04-09 14:31:33,476 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:31:33,839 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：                                        请选择国籍
+                                        爱尔兰
+美国
+加拿大
+英国
+澳大利亚
+新西兰
+乌克兰
+厄瓜尔多 
+塞尔维亚
+巴西
+巴拿馬
+中国
+南非
+德国
+法国
+俄罗斯
+阿根廷
+波兰
+西班牙
+印尼
+匈牙利
+冰岛
+伊朗
+伊拉克
+立陶宛
+尼泊尔
+古巴
+以色列
+比利時
+日本
+巴拉圭
+丹麥
+不丹
+土耳其
+其它国家
+                                    
+2019-04-09 14:31:34,275 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：爱尔兰
+2019-04-09 14:31:34,577 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：请输入邮箱
+2019-04-09 14:31:35,166 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:31:42,899 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: Element <input type="radio" name="is_abroad" value="1" style="border: 2px solid red;"> is not clickable at point (470, 275). Other element would receive the click: <div class="form-group  ">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: a694266ad3a7fdfae01e083a6776b748
+2019-04-09 14:32:56,731 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-09 14:32:58,153 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-09 14:32:58,452 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:32:59,350 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48654
+2019-04-09 14:32:59,708 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  48221
+2019-04-09 14:33:02,724 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：添加学生
+2019-04-09 14:33:04,411 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：请输入手机号
+2019-04-09 14:33:05,963 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：请输入中文名
+2019-04-09 14:33:07,298 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：请输入英文名
+2019-04-09 14:33:07,684 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：                                                        请选择
+                                                        小班
+中班
+大班
+一年级
+二年级
+三年级
+四年级
+五年级
+六年级
+初一
+初二
+初三
+高一
+高二
+高三
+                                                    
+2019-04-09 14:33:08,074 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：小班
+2019-04-09 14:33:08,283 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:33:08,551 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：                                                        请选择
+                                                        2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+                                                    
+2019-04-09 14:33:08,896 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：2
+2019-04-09 14:33:09,099 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:33:09,768 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：UUabc官网
+2019-04-09 14:33:10,139 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-09 14:33:22,052 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：OK
+2019-04-10 14:45:28,139 com.uuabc.base.BasePage [main] (ActivityPage.java:49) INFO  --> **********************************
+2019-04-10 14:45:28,143 com.uuabc.base.BasePage [main] (ActivityPage.java:50) INFO  --> 活动链接为：
+2019-04-10 14:46:22,234 com.uuabc.base.BasePage [main] (ActivityPage.java:49) INFO  --> **********************************
+2019-04-10 14:46:22,237 com.uuabc.base.BasePage [main] (ActivityPage.java:50) INFO  --> 活动链接为：
+2019-04-10 14:46:22,436 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-10 14:46:23,014 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-10 14:46:23,441 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-10 14:46:47,949 com.uuabc.base.BasePage [main] (ActivityPage.java:49) INFO  --> **********************************
+2019-04-10 14:46:47,954 com.uuabc.base.BasePage [main] (ActivityPage.java:50) INFO  --> 活动链接为：
+2019-04-10 14:46:48,246 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-10 14:46:48,824 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-10 14:46:49,236 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-10 14:55:51,888 com.uuabc.base.BasePage [main] (ActivityPage.java:50) INFO  --> **********************************
+2019-04-10 14:55:52,084 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-10 14:55:52,660 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-10 14:55:53,022 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-10 14:55:53,433 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:12:48,286 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:12:48,453 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:12:49,008 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:12:49,368 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:12:49,674 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:13:56,486 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:13:56,849 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:13:57,477 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:14:37,772 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:14:48,359 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:16:29,693 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:16:29,998 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:16:30,563 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:16:30,975 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:16:31,340 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:16:55,136 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:16:55,443 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:16:56,086 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:17:09,985 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:18:23,260 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:18:23,635 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:18:24,297 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:18:53,312 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:19:04,890 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:20:13,512 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:20:13,830 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:20:14,374 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:20:14,790 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:20:15,208 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 11:24:53,566 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 11:24:53,811 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 11:24:54,318 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 11:24:54,758 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 11:24:55,100 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 13:16:52,381 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 13:16:52,741 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 13:16:53,389 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 13:16:53,783 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 13:16:54,200 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 13:17:55,921 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 13:17:56,194 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 13:17:56,666 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 13:17:57,068 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 13:17:57,505 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 13:24:45,170 com.uuabc.base.BasePage [main] (ActivityPage.java:71) INFO  --> **********************************
+2019-04-11 13:24:45,425 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：手机号码
+2019-04-11 13:24:45,924 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：图片验证码
+2019-04-11 13:24:46,272 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：验证码
+2019-04-11 13:24:46,631 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：立即报名试听
+2019-04-11 15:32:39,126 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 15:32:40,647 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 15:32:41,024 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:32:42,110 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 15:32:42,534 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 15:54:58,702 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 15:55:00,262 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 15:55:00,628 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:55:01,890 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 15:55:02,435 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 15:55:35,210 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"body > section > div.main-content > div.wrapper > div > div > section > div > div > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(10) > div"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56066}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: f742f7462a7f39f0840c9ca23fcd644f
+*** Element info: {Using=css selector, value=body > section > div.main-content > div.wrapper > div > div > section > div > div > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(10) > div}
+2019-04-11 15:57:02,786 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 15:57:04,158 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 15:57:04,434 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:57:05,257 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 15:57:05,539 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 15:57:08,627 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 15:57:09,124 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:57:34,604 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=/html/body/section/div/div/div/div/section/header/div/div/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+2019-04-11 15:57:46,743 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 15:57:48,163 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 15:57:48,483 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:57:49,762 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 15:57:50,163 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 15:57:53,179 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 15:57:53,669 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 15:57:58,813 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:07:01,116 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 16:07:02,514 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 16:07:02,816 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:07:03,902 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 16:07:04,221 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 16:07:07,860 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 16:07:08,285 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：约班课(老)
+2019-04-11 16:07:10,682 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:07:12,144 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:07:12,538 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：外教
+2019-04-11 16:07:45,554 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/span/span/span[1]/input"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59955}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: eadb038725678b5d4ea96a20eb4e2f17
+*** Element info: {Using=xpath, value=/html/body/span/span/span[1]/input}
+2019-04-11 16:09:03,040 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 16:09:04,466 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 16:09:04,794 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:09:05,858 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 16:09:06,204 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 16:09:09,420 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 16:09:10,111 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:09:13,469 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:09:14,989 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:09:15,419 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：外教
+2019-04-11 16:09:20,187 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：请选择
+2019-04-11 16:09:20,271 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: cannot focus element
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60793}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 9966c1c04d4fc0313e66de168d2a22ba
+2019-04-11 16:12:15,905 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 16:12:17,443 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 16:12:17,811 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:12:18,886 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 16:12:19,341 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 16:12:22,404 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 16:12:22,757 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:12:27,183 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:12:28,591 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:12:28,954 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：外教
+2019-04-11 16:12:30,566 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：请选择
+2019-04-11 16:12:33,797 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：请选择
+2019-04-11 16:12:33,943 com.uuabc.base.BasePage [main] (PageBo.java:53) ERROR --> 出现错误——————————org.openqa.selenium.WebDriverException: unknown error: cannot focus element
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3RA6U5P', ip: '192.168.18.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\uuabc\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62421}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 13eafbd4b36fc8113d9400890fe32fe7
+2019-04-11 16:15:28,658 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 16:15:30,133 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 16:15:30,510 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:15:31,495 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 16:15:31,848 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 16:15:34,541 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 16:15:34,911 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:15:40,366 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:15:41,924 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:15:42,377 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：外教
+2019-04-11 16:15:45,123 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:15:49,539 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:15:50,500 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：Kobe.Zhang(试用老师)
+2019-04-11 16:21:22,434 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员用户名
+2019-04-11 16:21:23,992 com.uuabc.base.BasePage [main] (BasePage.java:218) INFO  --> 操作：管理员密码
+2019-04-11 16:21:24,422 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:21:25,534 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：学生管理  48216
+2019-04-11 16:21:25,978 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：试听学生  47797
+2019-04-11 16:21:28,457 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：更多操作
+2019-04-11 16:21:28,820 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:21:31,991 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：创建班课
+2019-04-11 16:21:33,372 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:21:33,769 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：外教
+2019-04-11 16:21:36,121 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：请选择
+2019-04-11 16:21:39,141 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素
+2019-04-11 16:21:40,038 com.uuabc.base.BasePage [main] (BasePage.java:216) INFO  --> 操作：Kobe.Zhang(试用老师)
+2019-04-11 16:21:41,057 com.uuabc.base.BasePage [main] (BasePage.java:222) INFO  --> 未找到该元素

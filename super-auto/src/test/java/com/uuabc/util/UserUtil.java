@@ -39,4 +39,13 @@ public class UserUtil {
 		String StringTenTime = String.valueOf(new Date().getTime()).substring(0,10);
 		return StringTenTime;
 	}
+	
+	//活动URL
+	public String[] activity_url() {
+		
+		
+		String[] activity_url = {};
+		return activity_url;
+	}
+	
 }
